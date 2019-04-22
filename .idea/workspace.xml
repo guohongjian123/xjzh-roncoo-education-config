@@ -2,57 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03e941a3-7a37-406a-b6cd-c515f7671c98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application-local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application-test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-activity-service-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-activity-service-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-activity-service-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-activity-service-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-activity-service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-blog-service-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-blog-service-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-blog-service-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-blog-service-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-blog-service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-course-service-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-course-service-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-course-service-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-course-service-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-course-service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-gateway-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-gateway-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-gateway-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-gateway-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-gateway.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-job-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-job-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-job-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-job-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-job.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-server-admin-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-server-admin-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-server-admin-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-server-admin-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-server-admin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-system-service-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-system-service-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-system-service-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-system-service-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-system-service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-user-service-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-user-service-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-user-service-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-user-service-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-user-service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-web-boss-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-web-boss-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-web-boss-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-web-boss-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roncoo-education-web-boss.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xjzh-education-activity-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xjzh-education-activity-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xjzh-education-community-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xjzh-education-community-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xjzh-education-community-service-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xjzh-education-community-service-local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xjzh-education-system-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xjzh-education-system-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xjzh-education-user-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xjzh-education-user-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xjzh-education-web-boss-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xjzh-education-web-boss-dev.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,44 +23,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xjzh-education-activity-service-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="121" selection-start-line="5" selection-start-column="121" selection-end-line="5" selection-end-column="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xjzh-education-activity-service-prod.properties">
+        <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-local.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xjzh-education-community-service-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-prod.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xjzh-education-course-service-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-dev.properties">
+        <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-test.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xjzh-education-job-dev.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xjzh-education-job-prod.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -118,10 +57,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xjzh-education-server-admin-local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xjzh-education-system-service-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -129,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xjzh-education-user-service-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -138,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xjzh-education-web-boss-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -153,9 +97,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/application-dev.properties" />
+        <option value="$PROJECT_DIR$/xjzh-education-course-service-dev.properties" />
         <option value="$PROJECT_DIR$/xjzh-education-activity-service-dev.properties" />
         <option value="$PROJECT_DIR$/xjzh-education-community-service-dev.properties" />
-        <option value="$PROJECT_DIR$/xjzh-education-course-service-dev.properties" />
+        <option value="$PROJECT_DIR$/xjzh-education-community-service-local.properties" />
         <option value="$PROJECT_DIR$/xjzh-education-system-service-dev.properties" />
         <option value="$PROJECT_DIR$/xjzh-education-user-service-dev.properties" />
         <option value="$PROJECT_DIR$/xjzh-education-web-boss-dev.properties" />
@@ -241,22 +186,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555902458450</updated>
-      <workItem from="1555902459660" duration="2853000" />
+      <workItem from="1555902459660" duration="7700000" />
     </task>
+    <task id="LOCAL-00001" summary="132">
+      <created>1555910669246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555910669246</updated>
+    </task>
+    <task id="LOCAL-00002" summary="132">
+      <created>1555912899680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555912899680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="132">
+      <created>1555914267474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555914267474</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2853000" />
+    <option name="totallyTimeSpent" value="7700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SVN Repositories" visible="true" weight="0.27765727" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -289,6 +257,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="132" />
+    <option name="LAST_COMMIT_MESSAGE" value="132" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/application-prod.properties">
@@ -300,24 +270,49 @@
     <entry file="file://$PROJECT_DIR$/application-local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-activity-service-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-course-service.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-course-service-local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-course-service-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-course-service-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="73">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-activity-service-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="121" selection-start-line="5" selection-start-column="121" selection-end-line="5" selection-end-column="121" />
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xjzh-education-activity-service-prod.properties">
+    <entry file="file://$PROJECT_DIR$/xjzh-education-community-service-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-community-service-test.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-community-service-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-community-service-local.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
@@ -326,15 +321,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-course-service-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-dev.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-gateway-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-job-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-job-prod.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-server-admin-dev.properties">
@@ -344,24 +351,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xjzh-education-server-admin-local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-system-service-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-user-service-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xjzh-education-web-boss-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
